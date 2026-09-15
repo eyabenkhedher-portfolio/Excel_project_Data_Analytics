@@ -13,9 +13,8 @@ This Data jobs Salary dashboard was created to help job seekers for their desire
 ![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Salary Analysis 
-As a former job sekeer ,I've always been surprised by the lack data exploring the most optimal jobs skills in the data scientist market . I set out to undrestand 
-what skills top employers request and how to tand more pay .
-
+This analysis explores optimal data skills in the job market to understand what skills top employers request 
+and how they correlate with compensation."
 [checkout my work here](https://github.com/eyabenkhedher-portfolio/Excel_project_Data_Analytics/tree/main/Project_2-Analysis)
 
 
