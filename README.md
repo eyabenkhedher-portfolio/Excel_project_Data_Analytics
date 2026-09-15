@@ -1,5 +1,5 @@
-# Excel_project_Data_Analytics
-My project demonstring my Excel skills
+# Excel for Data Analytics — Full Coursework & Projects
+
 
 Data Nerds ! this repo contais all the excel files needed to follow my excel projects
 
@@ -22,6 +22,14 @@ what skills top employers request and how to tand more pay .
    ![2_Project_Analysis_Chart1.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
    
    ![2_Project_Analysis_Chart3.png](/0_Resources/Images/2_Project_Analysis_Chart3.png)
+
+
+   ## 💡 Conclusion 
+
+   Credits & Acknowledgments: All course materials, datasets, and project guidelines belong to Luke Barousse. 
+   Built and executed by me as part of my learning pipeline.
+
+
    
 
 
