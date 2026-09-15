@@ -15,4 +15,8 @@ As a former job sekeer ,I've always been surprised by the lack data exploring th
 what skills top employers request and how to tand more pay .
 
 
+   ![2_Project_Analysis_Chart1.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
+   
+
+
 
