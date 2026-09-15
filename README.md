@@ -6,7 +6,7 @@ Data Nerds ! this repo contais all the excel files needed to follow my excel pro
 [EXCEL]:(https://github.com/eyabenkhedher-portfolio/Excel_project_Data_Analytics)
 
 ## Salary Dashboard 
-This Data jobs Salary dashboard was created to help job seekers for their desired jobs and ensure they are being adequately compensated  . 
+This repository contains practice files, data models, and dashboards built during Luke Barousse's Excel for Data Analytics course.
 
 [checkout  my work here ](https://github.com/eyabenkhedher-portfolio/Excel_project_Data_Analytics/tree/main/Project_1-Dashboard)  
 
